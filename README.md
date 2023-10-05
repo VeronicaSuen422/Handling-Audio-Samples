@@ -9,7 +9,7 @@ HKUST COMP4431 Lab2-4
 
 ## About the program
 
-Waveform selections:
+### Waveform selections:
 - Sine (Time Domain Method)
 - Square (Time Domain Method)
 - Square (Additive Method)
@@ -22,7 +22,7 @@ Waveform selections:
 - Karplus-Strong Algorithm
 - Repeating Narrow Pulse
 
-Postprocessing selections:
+### Postprocessing selections:
 - Do Nothing
 - Reverse
 - Boost
