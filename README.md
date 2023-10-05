@@ -8,6 +8,7 @@ HKUST COMP4431 Lab2-4
 2. Open the webpage via a browser with the URL: http://localhost:8000/audioproc.html
 
 ## About the program
+
 Waveform selections:
 - Sine (Time Domain Method)
 - Square (Time Domain Method)
@@ -20,6 +21,7 @@ Waveform selections:
 - FM
 - Karplus-Strong Algorithm
 - Repeating Narrow Pulse
+
 Postprocessing selections:
 - Do Nothing
 - Reverse
